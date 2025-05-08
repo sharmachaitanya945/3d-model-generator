@@ -1,0 +1,11 @@
+torch
+numpy
+open3d
+pillow
+matplotlib
+rembg
+diffusers
+transformers
+accelerate
+trimesh
+shap-e @ git+https://github.com/openai/shap-e.git
